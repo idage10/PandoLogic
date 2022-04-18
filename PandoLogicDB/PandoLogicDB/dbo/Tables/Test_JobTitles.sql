@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Test_JobTitles](
+	[JobTitleId] [int] NOT NULL,
+	[JobTitleName] [nvarchar](max) NOT NULL,
+	[CategoryId] [int] NOT NULL,
+ CONSTRAINT [PK_Test_JobTitles] PRIMARY KEY CLUSTERED 
+(
+	[JobTitleId] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]

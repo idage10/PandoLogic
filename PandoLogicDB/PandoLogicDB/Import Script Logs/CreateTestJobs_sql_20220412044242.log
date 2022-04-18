@@ -1,0 +1,13 @@
+12/04/2022 19:42:42	This log contains information about the import operation of the script 'CreateTestJobs.sql' into project 'PandoLogicDB' on computer 'DESKTOP-0MNLVNC' by user'idan.
+12/04/2022 19:42:42	Started importing file: C:\Users\idan\AppData\Local\Temp\tmp4BFA.tmp 
+12/04/2022 19:42:42	File name C:\Users\idan\AppData\Local\Temp\tmp4BFA.tmp (size: 167516)
+12/04/2022 19:42:42	Parsing import script
+12/04/2022 19:42:42	Total number of batches in script: 8
+12/04/2022 19:42:42	Total number of statements in script: 2
+12/04/2022 19:42:42	The script was successfully imported into the project.
+12/04/2022 19:42:42	Analyzing schema objects...
+12/04/2022 19:42:42	Scanning project for duplicate elements
+12/04/2022 19:42:42	Finished duplicate element processing
+12/04/2022 19:42:42	In the script that you provided to the import operation, one or more statements were not fully understood. These statements were moved to the ScriptsIgnoredOnImport.sql file. Review the file contents for additional information.
+12/04/2022 19:42:42	A summary of the import was saved to the following location: C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\Import Script Logs\CreateTestJobs_sql_20220412044242.log
+12/04/2022 19:42:42	Click Finish to continue...

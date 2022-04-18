@@ -1,0 +1,6 @@
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\bin\Debug\PandoLogicDB.dacpac
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\bin\Debug\PandoLogicDB.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\bin\Debug\PandoLogicDB.pdb
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\PandoLogicDB.sqlprojAssemblyReference.cache
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\PandoLogicDB.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\PandoLogicDB.pdb
