@@ -28,7 +28,7 @@ class App extends React.Component {
       return;
     }
 
-    this.fetchPromise = fetch("https://localhost:5001/JobTitles",
+    this.fetchPromise = fetch("http://localhost:5000/JobTitles",
         {
             method: 'GET',
             headers: {
@@ -103,7 +103,7 @@ class App extends React.Component {
       return;
     }
 
-    fetch("https://localhost:5001/JobTitles/" + inputValue,
+    fetch("http://localhost:5000/JobTitles/" + inputValue,
         {
             method: 'GET',
             headers: {

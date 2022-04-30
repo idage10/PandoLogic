@@ -32,7 +32,7 @@ namespace JobTitlesAPI
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<PandoLogicDBContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DBConnection")));
-            services.AddScoped< ILogic, JobsLogic>();
+            services.AddScoped<ILogic, JobsLogic>();
             services.AddScoped<IJobsData, JobsDataFromDB>();
             // Enable Cross-origin resource sharing (CORS)
             services.AddCors(c =>
