@@ -4,3 +4,7 @@ C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\Pand
 C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\PandoLogicDB.sqlprojAssemblyReference.cache
 C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\PandoLogicDB.dll
 C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\PandoLogicDB.pdb
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\Model.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\refactor.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\postdeploy.sql
+C:\Users\idan\Documents\Visual Studio 2017\Projects\PandoLogic\PandoLogicDB\PandoLogicDB\obj\Debug\predeploy.sql
