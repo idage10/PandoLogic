@@ -59,6 +59,6 @@ const App = () => {
       <TextList dataList={textListData}></TextList>
     </div>
     );
-  }
+}
 
 export default App;
